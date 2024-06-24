@@ -5,7 +5,7 @@
 
 ## Guia de execução no terminal
 
-- git clone https://github.com/MariaGabrielaMello/PL-Tec-I-Atv-IV.git
+- git clone https://github.com/MariaGabrielaMello/Atlantis-Tec-II-Atv-III.git
 
 Após clonar o projeto, executar no terminal:
 
